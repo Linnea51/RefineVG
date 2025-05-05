@@ -11,7 +11,7 @@ Accurate and Robust: Dynamic Image Zooming for Remote Sensing Visual Grounding
 </div>
 
 
-<p align="center"><img src="docs/framework.pdf" width="800"/></p>
+<p align="center"><img src="docs/framework.png" width="800"/></p>
 
 
 ### Abstract
