@@ -1,9 +1,9 @@
-The official implementation of ZoomVG.
+The official implementation of RefineVG.
 
 <div align="center">
 <h1>
 <b>
-Accurate and Robust: Dynamic Image Zooming for Remote Sensing Visual Grounding
+Accurate and Robust: Dynamic Image Refinement for Remote Sensing Visual Grounding
 </b>
 </h1>
 
